@@ -7,3 +7,4 @@
 
 1. AlexNet 
 2. VGG
+3. ResNet (include Saliency Map)
